@@ -22,7 +22,7 @@ repo_data = pd.read_csv(repo_data_path)
 # Sidebar with user input
 st.sidebar.header('User Input Features')
 
-features = [ 'authors', 'year', 'raised_funding' 'contributors']
+features = [ 'authors', 'year', 'raised_funding', 'contributors']
 
 user_features = {}
 for feature in features:
