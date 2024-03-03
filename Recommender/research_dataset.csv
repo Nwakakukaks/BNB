@@ -1,0 +1,418 @@
+research_title,authors,link,year,raised_funding,contributors
+The Role of Artificial Intelligence in Healthcare,2,https://doi.org/10.1016/j.jbi.2023.102345,2023,50000,25
+Climate Change Effects on Coral Reefs,2,https://doi.org/10.3354/meps10321,2022,75000,35
+Quantum Computing: Challenges and Opportunities,1,https://doi.org/10.1109/TQC.2024.1234567,2024,100000,40
+Genetic Determinants of Alzheimer's Disease,2,https://doi.org/10.1016/j.neuroscience.2021.543210,2021,60000,30
+Renewable Energy Technologies: A Review,2,https://doi.org/10.1016/j.rser.2023.987654,2023,80000,45
+Exploring Dark Matter in the Universe,2,https://doi.org/10.1103/PhysRevD.105.098765,2022,90000,50
+Advancements in Nanotechnology,3,https://doi.org/10.1021/acsnano.0c08831,2020,70000,30
+Effects of Pollution on Urban Ecosystems,2,https://doi.org/10.1016/j.envpol.2023.119723,2023,85000,40
+Machine Learning Applications in Finance,1,https://doi.org/10.1016/j.neucom.2023.10.054,2023,95000,55
+Biomedical Engineering Innovations,4,https://doi.org/10.1016/j.biomaterials.2023.10.034,2023,120000,60
+Genomic Analysis of Cancer Cells,3,https://doi.org/10.1038/s41598-021-82203-9,2021,70000,35
+Advances in Organic Chemistry,2,https://doi.org/10.1021/jacs.9b12572,2019,60000,25
+Neural Network Architectures for Image Recognition,1,https://doi.org/10.1109/TPAMI.2022.1234567,2022,80000,40
+Effects of Microplastics on Marine Life,2,https://doi.org/10.1016/j.marpolbul.2023.112345,2023,75000,35
+Future Prospects of Space Exploration,3,https://doi.org/10.1016/j.actaastro.2024.01.029,2024,110000,60
+Advancements in Materials Science,2,https://doi.org/10.1038/nmat12345,2023,85000,45
+Innovations in Biotechnology,3,https://doi.org/10.1038/s41587-021-00985-3,2021,95000,50
+Role of Microbes in Soil Fertility,2,https://doi.org/10.1016/j.soilbio.2023.105432,2023,70000,30
+Advancements in Robotics and Automation,2,https://doi.org/10.1109/TRO.2022.1234567,2022,90000,55
+Applications of Blockchain Technology,1,https://doi.org/10.1016/j.jbi.2021.112233,2021,80000,40
+Effects of Climate Change on Agricultural Production,3,https://doi.org/10.1038/s41467-022-11111-9,2022,75000,35
+Biological Mechanisms of Aging,2,https://doi.org/10.1016/j.cell.2023.109876,2023,100000,50
+Machine Learning Algorithms for Predictive Analytics,1,https://doi.org/10.1109/TKDE.2023.1234567,2023,120000,65
+Advances in Quantum Mechanics,2,https://doi.org/10.1103/PhysRevA.102.012345,2022,85000,45
+Role of Stem Cells in Regenerative Medicine,3,https://doi.org/10.1016/j.stem.2021.109876,2021,90000,40
+Renewable Energy Policies: A Global Perspective,2,https://doi.org/10.1016/j.rser.2023.11.007,2023,110000,55
+Exploring Exoplanets in the Milky Way Galaxy,1,https://doi.org/10.1038/s41550-021-01369-0,2021,95000,50
+Impacts of Urbanization on Biodiversity,2,https://doi.org/10.1016/j.ecolind.2023.11.007,2023,80000,35
+Advancements in Immunotherapy for Cancer Treatment,3,https://doi.org/10.1016/j.cell.2021.10.011,2021,105000,60
+Understanding Neurodegenerative Diseases,2,https://doi.org/10.1016/j.neuron.2023.123456,2023,95000,45
+Applications of CRISPR-Cas9 in Gene Editing,2,https://doi.org/10.1038/nbt12345,2022,90000,40
+Role of Microorganisms in Bioremediation,3,https://doi.org/10.1016/j.biortech.2023.105432,2023,85000,35
+Advances in Artificial Intelligence for Autonomous Vehicles,1,https://doi.org/10.1109/TITS.2022.1234567,2022,100000,55
+Effects of Air Pollution on Human Health,2,https://doi.org/10.1016/j.envint.2021.119723,2021,75000,30
+Renewable Energy Integration into the Power Grid,2,https://doi.org/10.1016/j.rser.2023.987654,2023,110000,60
+Innovations in Drug Delivery Systems,3,https://doi.org/10.1016/j.biomaterials.2021.10.034,2021,105000,55
+Exploring Gravitational Waves,2,https://doi.org/10.1103/PhysRevD.104.098765,2022,90000,40
+Advances in Synthetic Biology,1,https://doi.org/10.1038/nature12345,2023,95000,45
+Neural Mechanisms of Memory Formation,2,https://doi.org/10.1016/j.neuron.2023.112345,2023,100000,50
+Role of Phytochemicals in Cancer Prevention,3,https://doi.org/10.1016/j.ccell.2021.105432,2021,85000,35
+Advancements in Solid-State Physics,2,https://doi.org/10.1103/PhysRevB.102.012345,2022,120000,60
+Urban Planning Strategies for Sustainable Cities,1,https://doi.org/10.1016/j.landurbplan.2021.11.007,2021,90000,40
+Impacts of Deforestation on Climate Change,2,https://doi.org/10.1016/j.geoforum.2023.123456,2023,105000,55
+Applications of Deep Learning in Natural Language Processing,3,https://doi.org/10.1109/ACCESS.2022.1234567,2022,95000,30
+Advances in Marine Biology Research,2,https://doi.org/10.1016/j.marpol.2021.119723,2021,80000,35
+Future Prospects of Fusion Energy,1,https://doi.org/10.1016/j.fusengdes.2023.987654,2023,110000,60
+Innovations in Wearable Technology,3,https://doi.org/10.1109/JPROC.2021.10.034,2021,105000,55
+Role of Gut Microbiota in Human Health,2,https://doi.org/10.1016/j.cell.2022.105432,2022,95000,50
+Advancements in Brain-Computer Interface Technology,2,https://doi.org/10.1109/TBME.2023.112345,2023,100000,45
+Environmental Impacts of Hydraulic Fracturing,3,https://doi.org/10.1016/j.jenvman.2021.123456,2021,85000,40
+Understanding Quantum Entanglement,2,https://doi.org/10.1103/PhysRevLett.124.012345,2022,120000,65
+Advances in Plant Genetics and Breeding,1,https://doi.org/10.1016/j.tplants.2021.119723,2021,90000,40
+Effects of Microgravity on Human Physiology,2,https://doi.org/10.1016/j.physrep.2023.987654,2023,110000,55
+Impacts of Pesticides on Pollinator Populations,3,https://doi.org/10.1016/j.envint.2022.1234567,2022,95000,30
+Applications of Photovoltaic Technology,2,https://doi.org/10.1016/j.solener.2021.10.034,2021,80000,35
+Role of Hormones in Human Behavior,2,https://doi.org/10.1016/j.yhbeh.2023.105432,2023,105000,60
+Advancements in Quantum Computing Architectures,1,https://doi.org/10.1109/TC.2022.1123456,2022,100000,45
+Climate Change Adaptation Strategies,3,https://doi.org/10.1016/j.gloenvcha.2021.11.007,2021,85000,40
+Neural Networks for Predictive Maintenance,2,https://doi.org/10.1016/j.ymssp.2023.123456,2023,120000,65
+Innovations in Water Purification Technologies,3,https://doi.org/10.1016/j.jhazmat.2021.109723,2021,90000,40
+Advances in Aerospace Engineering,1,https://doi.org/10.1016/j.actaastro.2023.987654,2023,110000,55
+Biological Signatures of Aging,2,https://doi.org/10.1016/j.cell.2022.105432,2022,95000,30
+Applications of Augmented Reality in Education,2,https://doi.org/10.1109/TVCG.2021.10.034,2021,80000,35
+Role of Mycorrhizal Fungi in Soil Nutrient Cycling,3,https://doi.org/10.1016/j.soilbio.2023.105432,2023,105000,60
+Advancements in Satellite Communication Systems,1,https://doi.org/10.1109/ACCESS.2022.1234567,2022,100000,45
+Future Prospects of Gene Therapy,3,https://doi.org/10.1016/j.ymthe.2021.112345,2021,85000,40
+Understanding Black Holes: Theoretical and Observational Aspects,2,https://doi.org/10.1016/j.physrep.2023.11.007,2023,120000,65
+Impacts of Land Use Change on Ecosystem Services,3,https://doi.org/10.1016/j.ecoser.2021.109723,2021,90000,40
+Applications of Internet of Things in Smart Cities,1,https://doi.org/10.1016/j.comnet.2023.987654,2023,110000,55
+Advances in Stem Cell Therapy for Neurological Disorders,2,https://doi.org/10.1016/j.stem.2022.105432,2022,95000,30
+Effects of Noise Pollution on Human Health,2,https://doi.org/10.1016/j.envint.2021.10.034,2021,80000,35
+Renewable Energy Technologies for Sustainable Development,3,https://doi.org/10.1016/j.rser.2023.105432,2023,105000,60
+Innovations in Sustainable Agriculture Practices,2,https://doi.org/10.1016/j.envint.2022.1234567,2022,100000,45
+Role of Mitochondria in Aging and Disease,3,https://doi.org/10.1016/j.cell.2021.112345,2021,85000,40
+Advancements in Graphene-Based Materials,2,https://doi.org/10.1016/j.mattod.2023.11.007,2023,120000,65
+Future Prospects of Fusion Reactor Technology,1,https://doi.org/10.1016/j.fusengdes.2021.109723,2021,90000,40
+Understanding Epigenetics: Mechanisms and Implications,3,https://doi.org/10.1016/j.cell.2023.987654,2023,110000,55
+Applications of Virtual Reality in Healthcare,2,https://doi.org/10.1016/j.cag.2022.105432,2022,95000,30
+Impacts of Microplastics on Aquatic Ecosystems,2,https://doi.org/10.1016/j.envpol.2021.10.034,2021,80000,35
+Advances in Quantum Information Processing,3,https://doi.org/10.1016/j.physrep.2023.105432,2023,105000,60
+Role of Endophytic Microbes in Plant Health,2,https://doi.org/10.1016/j.tplants.2022.1234567,2022,100000,45
+Renewable Energy Integration into Buildings,1,https://doi.org/10.1016/j.rser.2023.112345,2023,110000,55
+Innovations in Drug Discovery and Development,2,https://doi.org/10.1016/j.ddtec.2021.109723,2021,85000,40
+Effects of Air Quality on Respiratory Health,3,https://doi.org/10.1016/j.envint.2023.987654,2023,120000,65
+Advancements in Molecular Biology Techniques,1,https://doi.org/10.1016/j.molcel.2021.10.034,2021,90000,40
+Exploring Exoplanetary Systems,3,https://doi.org/10.1016/j.icarus.2023.105432,2023,110000,55
+Role of Non-Coding RNAs in Gene Regulation,2,https://doi.org/10.1016/j.cell.2022.1234567,2022,95000,30
+Advances in Optical Fiber Communication Systems,2,https://doi.org/10.1109/JLT.2021.10.034,2021,80000,35
+Biological Control of Insect Pests in Agriculture,3,https://doi.org/10.1016/j.biocontrol.2023.112345,2023,105000,60
+Future Prospects of Hydrogen Fuel Cell Technology,1,https://doi.org/10.1016/j.ijhydene.2022.987654,2022,100000,45
+Understanding Plant-Microbe Interactions,2,https://doi.org/10.1016/j.tplants.2021.109723,2021,85000,40
+Impacts of Global Warming on Arctic Ecosystems,2,https://doi.org/10.1016/j.tree.2023.987654,2023,110000,55
+Applications of Wearable Sensors in Healthcare,3,https://doi.org/10.1016/j.bios.2021.105432,2021,95000,30
+Advancements in Gene Editing Technologies,1,https://doi.org/10.1016/j.tibtech.2023.1234567,2023,120000,65
+Effects of Ocean Acidification on Marine Life,2,https://doi.org/10.1016/j.marpol.2021.10.034,2021,90000,40
+Role of Gut Microbiota in Immune Regulation,3,https://doi.org/10.1016/j.cell.2023.112345,2023,110000,55
+Innovations in Quantum Communication Networks,2,https://doi.org/10.1109/JSTQE.2022.1234567,2022,95000,30
+Renewable Energy Solutions for Rural Electrification,2,https://doi.org/10.1016/j.rser.2021.109723,2021,85000,40
+Advancements in Biomedical Imaging Technologies,3,https://doi.org/10.1016/j.bios.2023.987654,2023,110000,55
+Future Prospects of Carbon Capture and Storage,1,https://doi.org/10.1016/j.ijggc.2021.105432,2021,95000,30
+Impacts of Marine Pollution on Coral Reefs,2,https://doi.org/10.1016/j.marpolbul.2023.112345,2023,120000,65
+Applications of Machine Learning in Drug Discovery,3,https://doi.org/10.1016/j.ddtec.2021.1234567,2021,90000,40
+Role of MicroRNAs in Cancer Progression,2,https://doi.org/10.1016/j.cell.2023.109723,2023,110000,55
+Advances in Quantum Error Correction Codes,2,https://doi.org/10.1109/TIT.2022.9876543,2022,95000,30
+Effects of Noise Pollution on Wildlife Habitats,3,https://doi.org/10.1016/j.biocon.2023.105432,2023,110000,55
+Renewable Energy Technologies for Off-Grid Applications,2,https://doi.org/10.1016/j.rser.2021.1234567,2021,95000,30
+Innovations in Agricultural Robotics,1,https://doi.org/10.1016/j.biosystemseng.2023.112345,2023,120000,65
+Role of Microplastics in Marine Food Chains,3,https://doi.org/10.1016/j.marpolbul.2021.123456,2021,90000,40
+Advancements in Brain-Computer Interface Technology,2,https://doi.org/10.1016/j.bios.2023.109723,2023,110000,55
+Future Prospects of Space Tourism,2,https://doi.org/10.1016/j.actaastro.2022.105432,2022,95000,30
+Impacts of Light Pollution on Nocturnal Wildlife,3,https://doi.org/10.1016/j.biocon.2023.987654,2023,110000,55
+Applications of Artificial Intelligence in Drug Design,1,https://doi.org/10.1016/j.ddtec.2021.10.034,2021,95000,30
+Role of Gut Microbiota in Neurological Disorders,2,https://doi.org/10.1016/j.cell.2023.1234567,2023,110000,55
+Advancements in Quantum Cryptography Protocols,2,https://doi.org/10.1109/TIT.2022.9876543,2022,95000,30
+Effects of Air Pollution on Human Respiratory Health,3,https://doi.org/10.1016/j.envint.2023.105432,2023,110000,55
+Renewable Energy Integration into Smart Grids,2,https://doi.org/10.1016/j.rser.2021.1234567,2021,95000,30
+Innovations in Aquaponics Systems,1,https://doi.org/10.1016/j.biosystemseng.2023.112345,2023,120000,65
+Role of Microbiomes in Soil Carbon Sequestration,3,https://doi.org/10.1016/j.soilbio.2021.123456,2021,90000,40
+Advancements in Quantum Sensing Technologies,2,https://doi.org/10.1016/j.ssnmr.2023.109723,2023,110000,55
+Future Prospects of Electric Vehicle Technology,2,https://doi.org/10.1016/j.ijhev.2022.105432,2022,95000,30
+Impacts of Ocean Acidification on Coral Reefs,3,https://doi.org/10.1016/j.tree.2023.987654,2023,110000,55
+Applications of Machine Learning in Biomedicine,1,https://doi.org/10.1016/j.ddtec.2021.10.034,2021,95000,30
+Role of Gut Microbiota in Metabolic Disorders,2,https://doi.org/10.1016/j.cell.2023.1234567,2023,110000,55
+Advancements in Quantum Computing Algorithms,2,https://doi.org/10.1109/TIT.2022.9876543,2022,95000,30
+Effects of Noise Pollution on Avian Communication,3,https://doi.org/10.1016/j.biocon.2023.105432,2023,110000,55
+Renewable Energy Technologies for Remote Areas,2,https://doi.org/10.1016/j.rser.2021.1234567,2021,95000,30
+Innovations in Precision Agriculture Technologies,1,https://doi.org/10.1016/j.biosystemseng.2023.112345,2023,120000,65
+Role of Microbial Communities in Wastewater Treatment,3,https://doi.org/10.1016/j.watres.2021.123456,2021,90000,40
+Advancements in Quantum Computing Hardware,2,https://doi.org/10.1016/j.quaqua.2023.109723,2023,110000,55
+Future Prospects of Renewable Energy Storage Systems,2,https://doi.org/10.1016/j.rser.2022.105432,2022,95000,30
+Impacts of Light Pollution on Astronomical Observations,3,https://doi.org/10.1016/j.envint.2023.987654,2023,110000,55
+Applications of Artificial Intelligence in Healthcare,1,https://doi.org/10.1016/j.ddtec.2021.10.034,2021,95000,30
+Role of Gut Microbiota in Inflammatory Bowel Diseases,2,https://doi.org/10.1016/j.cell.2023.1234567,2023,110000,55
+Advancements in Quantum Computing Software,2,https://doi.org/10.1109/TIT.2022.9876543,2022,95000,30
+Effects of Air Pollution on Cardiovascular Health,3,https://doi.org/10.1016/j.envint.2023.105432,2023,110000,55
+Renewable Energy Technologies for Urban Areas,2,https://doi.org/10.1016/j.rser.2021.1234567,2021,95000,30
+Innovations in Vertical Farming Systems,1,https://doi.org/10.1016/j.biosystemseng.2023.112345,2023,120000,65
+Role of Microbes in Soil Remediation Technologies,3,https://doi.org/10.1016/j.jhazmat.2021.123456,2021,90000,40
+Advancements in Quantum Communication Devices,2,https://doi.org/10.1016/j.ssnmr.2023.109723,2023,110000,55
+Future Prospects of Solar Energy Technologies,2,https://doi.org/10.1016/j.ijggc.2022.105432,2022,95000,30
+Impacts of Ocean Pollution on Marine Biodiversity,3,https://doi.org/10.1016/j.tree.2023.987654,2023,110000,55
+Applications of Machine Learning in Environmental Science,1,https://doi.org/10.1016/j.ddtec.2021.10.034,2021,95000,30
+Role of Gut Microbiota in Neurodevelopmental Disorders,2,https://doi.org/10.1016/j.cell.2023.1234567,2023,110000,55
+Advancements in Quantum Sensing Devices,2,https://doi.org/10.1109/TIM.2022.9876543,2022,95000,30
+Effects of Noise Pollution on Marine Mammals,3,https://doi.org/10.1016/j.biocon.2023.105432,2023,110000,55
+Renewable Energy Solutions for Developing Countries,2,https://doi.org/10.1016/j.rser.2021.1234567,2021,95000,30
+Innovations in Agricultural Drones and Robotics,1,https://doi.org/10.1016/j.biosystemseng.2023.112345,2023,120000,65
+Role of Microbiomes in Human Health and Disease,3,https://doi.org/10.1016/j.cell.2021.123456,2021,90000,40
+Advancements in Quantum Sensing Techniques,2,https://doi.org/10.1016/j.ssnmr.2023.109723,2023,110000,55
+Future Prospects of Wind Energy Technologies,2,https://doi.org/10.1016/j.ijggc.2022.105432,2022,95000,30
+Impacts of Plastic Pollution on Marine Ecosystems,3,https://doi.org/10.1016/j.tree.2023.987654,2023,110000,55
+Applications of Machine Learning in Robotics,1,https://doi.org/10.1016/j.ddtec.2021.10.034,2021,95000,30
+Role of Gut Microbiota in Obesity and Metabolic Syndrome,2,https://doi.org/10.1016/j.cell.2023.1234567,2023,110000,55
+Advancements in Quantum Metrology Techniques,2,https://doi.org/10.1109/TIM.2022.9876543,2022,95000,30
+Effects of Light Pollution on Nocturnal Insects,3,https://doi.org/10.1016/j.biocon.2023.105432,2023,110000,55
+Renewable Energy Technologies for Remote Communities,2,https://doi.org/10.1016/j.rser.2021.1234567,2021,95000,30
+Innovations in Agricultural Sensors and IoT Devices,1,https://doi.org/10.1016/j.biosystemseng.2023.112345,2023,120000,65
+Role of Microbial Communities in Biogeochemical Cycles,3,https://doi.org/10.1016/j.watres.2021.123456,2021,90000,40
+Advancements in Quantum Computing Architectures,2,https://doi.org/10.1016/j.quaqua.2023.109723,2023,110000,55
+Future Prospects of Solar Cell Technologies,2,https://doi.org/10.1016/j.ijggc.2022.105432,2022,95000,30
+Impacts of Marine Debris on Coral Reef Ecosystems,3,https://doi.org/10.1016/j.tree.2023.987654,2023,110000,55
+Applications of Machine Learning in Bioinformatics,1,https://doi.org/10.1016/j.ddtec.2021.10.034,2021,95000,30
+Role of Gut Microbiota in Allergic Diseases,2,https://doi.org/10.1016/j.cell.2023.1234567,2023,110000,55
+Advancements in Quantum Communication Protocols,2,https://doi.org/10.1016/j.ssnmr.2022.9876543,2022,95000,30
+Effects of Noise Pollution on Bat Acoustic Signals,3,https://doi.org/10.1016/j.biocon.2023.105432,2023,110000,55
+Renewable Energy Solutions for Island Communities,2,https://doi.org/10.1016/j.rser.2021.1234567,2021,95000,30
+Innovations in Agricultural Automation Technologies,1,https://doi.org/10.1016/j.biosystemseng.2023.112345,2023,120000,65
+Role of Microbiomes in Human Immune System Development,3,https://doi.org/10.1016/j.cell.2021.123456,2021,90000,40
+Advancements in Quantum Cryptography Techniques,2,https://doi.org/10.1109/TIT.2023.1098721,2023,110000,55
+Future Prospects of Photovoltaic Solar Panel Technology,2,https://doi.org/10.1016/j.ijggc.2022.105432,2022,95000,30
+Impacts of Plastic Pollution on Marine Food Webs,3,https://doi.org/10.1016/j.tree.2023.987654,2023,110000,55
+Applications of Machine Learning in Medical Imaging,1,https://doi.org/10.1016/j.ddtec.2021.10.034,2021,95000,30
+Role of Gut Microbiota in Inflammatory Diseases,2,https://doi.org/10.1016/j.cell.2023.1234567,2023,110000,55
+Advancements in Quantum Key Distribution Systems,2,https://doi.org/10.1016/j.ssnmr.2022.9876543,2022,95000,30
+Effects of Noise Pollution on Marine Mammal Communication,3,https://doi.org/10.1016/j.biocon.2023.105432,2023,110000,55
+Renewable Energy Solutions for Rural Communities,2,https://doi.org/10.1016/j.rser.2021.1234567,2021,95000,30
+Innovations in Agricultural Biotechnology,1,https://doi.org/10.1016/j.biosystemseng.2023.112345,2023,120000,65
+Role of Microbial Communities in Environmental Restoration,3,https://doi.org/10.1016/j.watres.2021.123456,2021,90000,40
+Advancements in Quantum Computing Algorithms,2,https://doi.org/10.1016/j.quaqua.2023.109723,2023,110000,55
+Future Prospects of Solar Energy Conversion Technologies,2,https://doi.org/10.1016/j.ijggc.2022.105432,2022,95000,30
+Impacts of Marine Debris on Seabird Populations,3,https://doi.org/10.1016/j.tree.2023.987654,2023,110000,55
+Applications of Machine Learning in Neuroscience,1,https://doi.org/10.1016/j.ddtec.2021.10.034,2021,95000,30
+Role of Gut Microbiota in Cardiovascular Diseases,2,https://doi.org/10.1016/j.cell.2023.1234567,2023,110000,55
+Advancements in Quantum Communication Devices,2,https://doi.org/10.1016/j.ssnmr.2022.9876543,2022,95000,30
+Effects of Noise Pollution on Bird Communication,3,https://doi.org/10.1016/j.biocon.2023.105432,2023,110000,55
+Renewable Energy Solutions for Remote Regions,2,https://doi.org/10.1016/j.rser.2021.1234567,2021,95000,30
+Innovations in Agricultural Genetics and Genomics,1,https://doi.org/10.1016/j.biosystemseng.2023.112345,2023,120000,65
+Role of Microbial Communities in Wastewater Bioremediation,3,https://doi.org/10.1016/j.watres.2021.123456,2021,90000,40
+Advancements in Quantum Sensing Technologies,2,https://doi.org/10.1016/j.ssnmr.2023.109723,2023,110000,55
+Future Prospects of Wind Turbine Technologies,2,https://doi.org/10.1016/j.ijggc.2022.105432,2022,95000,30
+Impacts of Marine Debris on Coastal Ecosystems,3,https://doi.org/10.1016/j.tree.2023.987654,2023,110000,55
+Applications of Machine Learning in Drug Repurposing,1,https://doi.org/10.1016/j.ddtec.2021.10.034,2021,95000,30
+Role of Gut Microbiota in Gastrointestinal Diseases,2,https://doi.org/10.1016/j.cell.2023.1234567,2023,110000,55
+Advancements in Quantum Metrology Techniques,2,https://doi.org/10.1109/TIM.2022.9876543,2022,95000,30
+Effects of Noise Pollution on Marine Invertebrates,3,https://doi.org/10.1016/j.biocon.2023.105432,2023,110000,55
+Renewable Energy Solutions for Rural Electrification,2,https://doi.org/10.1016/j.rser.2021.1234567,2021,95000,30
+Innovations in Agricultural Robotics and Automation,1,https://doi.org/10.1016/j.biosystemseng.2023.112345,2023,120000,65
+Role of Microbial Communities in Soil Health,3,https://doi.org/10.1016/j.soilbio.2021.123456,2021,90000,40
+Advancements in Quantum Sensing Devices,2,https://doi.org/10.1016/j.ssnmr.2023.109723,2023,110000,55
+Future Prospects of Solar Photovoltaic Technologies,2,https://doi.org/10.1016/j.ijggc.2022.105432,2022,95000,30
+Impacts of Marine Debris on Marine Mammal Health,3,https://doi.org/10.1016/j.tree.2023.987654,2023,110000,55
+Applications of Machine Learning in Molecular Biology,1,https://doi.org/10.1016/j.ddtec.2021.10.034,2021,95000,30
+Role of Gut Microbiota in Parkinson's Disease,2,https://doi.org/10.1016/j.cell.2023.1234567,2023,110000,55
+Advancements in Quantum Cryptography Protocols,2,https://doi.org/10.1016/j.ssnmr.2022.9876543,2022,95000,30
+Effects of Noise Pollution on Fish Communication,3,https://doi.org/10.1016/j.biocon.2023.105432,2023,110000,55
+Renewable Energy Solutions for Urban Areas,2,https://doi.org/10.1016/j.rser.2021.1234567,2021,95000,30
+Innovations in Agricultural Sensor Technologies,1,https://doi.org/10.1016/j.biosystemseng.2023.112345,2023,120000,65
+Role of Microbial Communities in Biogas Production,3,https://doi.org/10.1016/j.watres.2021.123456,2021,90000,40
+Advancements in Quantum Computing Algorithms,2,https://doi.org/10.1016/j.quaqua.2023.109723,2023,110000,55
+Future Prospects of Solar Power Technologies,2,https://doi.org/10.1016/j.ijggc.2022.105432,2022,95000,30
+Impacts of Marine Debris on Seabird Health,3,https://doi.org/10.1016/j.tree.2023.987654,2023,110000,55
+Applications of Machine Learning in Proteomics,1,https://doi.org/10.1016/j.ddtec.2021.10.034,2021,95000,30
+Role of Gut Microbiota in Autism Spectrum Disorders,2,https://doi.org/10.1016/j.cell.2023.1234567,2023,110000,55
+Advancements in Quantum Cryptography Techniques,2,https://doi.org/10.1109/TIT.2022.9876543,2022,95000,30
+Effects of Noise Pollution on Bird Behavior,3,https://doi.org/10.1016/j.biocon.2023.105432,2023,110000,55
+Renewable Energy Solutions for Remote Locations,2,https://doi.org/10.1016/j.rser.2021.1234567,2021,95000,30
+Innovations in Agricultural Water Management,1,https://doi.org/10.1016/j.biosystemseng.2023.112345,2023,120000,65
+Role of Microbial Communities in Water Quality Improvement,3,https://doi.org/10.1016/j.watres.2021.123456,2021,90000,40
+Advancements in Quantum Sensing Technologies,2,https://doi.org/10.1016/j.ssnmr.2023.109723,2023,110000,55
+Future Prospects of Solar Panel Technologies,2,https://doi.org/10.1016/j.ijggc.2022.105432,2022,95000,30
+Impacts of Marine Debris on Sea Turtle Populations,3,https://doi.org/10.1016/j.tree.2023.987654,2023,110000,55
+Applications of Machine Learning in Systems Biology,1,https://doi.org/10.1016/j.ddtec.2021.10.034,2021,95000,30
+Role of Gut Microbiota in Schizophrenia Spectrum Disorders,2,https://doi.org/10.1016/j.cell.2023.1234567,2023,110000,55
+Advancements in Quantum Communication Devices,2,https://doi.org/10.1016/j.ssnmr.2022.9876543,2022,95000,30
+Effects of Noise Pollution on Marine Invertebrate Behavior,3,https://doi.org/10.1016/j.biocon.2023.105432,2023,110000,55
+Renewable Energy Solutions for Rural Development,2,https://doi.org/10.1016/j.rser.2021.1234567,2021,95000,30
+Innovations in Agricultural Waste Management,1,https://doi.org/10.1016/j.biosystemseng.2023.112345,2023,120000,65
+Role of Microbial Communities in Soil Carbon Dynamics,3,https://doi.org/10.1016/j.soilbio.2021.123456,2021,90000,40
+Advancements in Quantum Computing Algorithms,2,https://doi.org/10.1016/j.quaqua.2023.109723,2023,110000,55
+Future Prospects of Solar Photovoltaic Cell Technologies,2,https://doi.org/10.1016/j.ijggc.2022.105432,2022,95000,30
+Impacts of Marine Debris on Marine Mammal Populations,3,https://doi.org/10.1016/j.tree.2023.987654,2023,110000,55
+Applications of Machine Learning in Transcriptomics,1,https://doi.org/10.1016/j.ddtec.2021.10.034,2021,95000,30
+Role of Gut Microbiota in Mood Disorders,2,https://doi.org/10.1016/j.cell.2023.1234567,2023,110000,55
+Advancements in Quantum Cryptography Protocols,2,https://doi.org/10.1109/TIT.2022.9876543,2022,95000,30
+Effects of Noise Pollution on Marine Ecosystems,3,https://doi.org/10.1016/j.biocon.2023.105432,2023,110000,55
+Renewable Energy Solutions for Smart Cities,2,https://doi.org/10.1016/j.rser.2021.1234567,2021,95000,30
+Innovations in Agricultural Remote Sensing Technologies,1,https://doi.org/10.1016/j.biosystemseng.2023.112345,2023,120000,65
+Role of Microbial Communities in Anaerobic Digestion,3,https://doi.org/10.1016/j.watres.2021.123456,2021,90000,40
+Advancements in Quantum Sensing Technologies,2,https://doi.org/10.1016/j.ssnmr.2023.109723,2023,110000,55
+Future Prospects of Solar Energy Conversion Systems,2,https://doi.org/10.1016/j.ijggc.2022.105432,2022,95000,30
+Impacts of Marine Debris on Seabird Behavior,3,https://doi.org/10.1016/j.tree.2023.987654,2023,110000,55
+Applications of Machine Learning in Biophysics,1,https://doi.org/10.1016/j.ddtec.2021.10.034,2021,95000,30
+Role of Gut Microbiota in Anxiety Disorders,2,https://doi.org/10.1016/j.cell.2023.1234567,2023,110000,55
+Advancements in Quantum Error Correction Techniques,2,https://doi.org/10.1109/TIT.2022.9876543,2022,95000,30
+Effects of Noise Pollution on Marine Bird Communication,3,https://doi.org/10.1016/j.biocon.2023.105432,2023,110000,55
+Renewable Energy Solutions for Remote Communities,2,https://doi.org/10.1016/j.rser.2021.1234567,2021,95000,30
+Innovations in Agricultural Robotics and Automation,1,https://doi.org/10.1016/j.biosystemseng.2023.112345,2023,120000,65
+Role of Microbial Communities in Biogas Production,3,https://doi.org/10.1016/j.watres.2021.123456,2021,90000,40
+Advancements in Quantum Sensing Technologies,2,https://doi.org/10.1016/j.ssnmr.2023.109723,2023,110000,55
+Future Prospects of Solar Panel Technologies,2,https://doi.org/10.1016/j.ijggc.2022.105432,2022,95000,30
+Impacts of Marine Debris on Seabird Health,3,https://doi.org/10.1016/j.tree.2023.987654,2023,110000,55
+Applications of Machine Learning in Proteomics,1,https://doi.org/10.1016/j.ddtec.2021.10.034,2021,95000,30
+Role of Gut Microbiota in Inflammatory Bowel Diseases,2,https://doi.org/10.1016/j.cell.2023.1234567,2023,110000,55
+Advancements in Quantum Cryptography Techniques,2,https://doi.org/10.1109/TIT.2022.9876543,2022,95000,30
+Effects of Noise Pollution on Bird Behavior,3,https://doi.org/10.1016/j.biocon.2023.105432,2023,110000,55
+Renewable Energy Solutions for Rural Development,2,https://doi.org/10.1016/j.rser.2021.1234567,2021,95000,30
+Innovations in Agricultural Waste Management,1,https://doi.org/10.1016/j.biosystemseng.2023.112345,2023,120000,65
+Role of Microbial Communities in Soil Carbon Dynamics,3,https://doi.org/10.1016/j.soilbio.2021.123456,2021,90000,40
+Advancements in Quantum Computing Algorithms,2,https://doi.org/10.1016/j.quaqua.2023.109723,2023,110000,55
+Future Prospects of Solar Photovoltaic Cell Technologies,2,https://doi.org/10.1016/j.ijggc.2022.105432,2022,95000,30
+Impacts of Marine Debris on Marine Mammal Populations,3,https://doi.org/10.1016/j.tree.2023.987654,2023,110000,55
+Applications of Machine Learning in Transcriptomics,1,https://doi.org/10.1016/j.ddtec.2021.10.034,2021,95000,30
+Role of Gut Microbiota in Mood Disorders,2,https://doi.org/10.1016/j.cell.2023.1234567,2023,110000,55
+Advancements in Quantum Cryptography Protocols,2,https://doi.org/10.1016/j.ssnmr.2022.9876543,2022,95000,30
+Effects of Noise Pollution on Marine Ecosystems,3,https://doi.org/10.1016/j.biocon.2023.105432,2023,110000,55
+Renewable Energy Solutions for Smart Cities,2,https://doi.org/10.1016/j.rser.2021.1234567,2021,95000,30
+Innovations in Agricultural Remote Sensing Technologies,1,https://doi.org/10.1016/j.biosystemseng.2023.112345,2023,120000,65
+Role of Microbial Communities in Anaerobic Digestion,3,https://doi.org/10.1016/j.watres.2021.123456,2021,90000,40
+Advancements in Quantum Sensing Technologies,2,https://doi.org/10.1016/j.ssnmr.2023.109723,2023,110000,55
+Future Prospects of Solar Energy Conversion Systems,2,https://doi.org/10.1016/j.ijggc.2022.105432,2022,95000,30
+Impacts of Marine Debris on Seabird Behavior,3,https://doi.org/10.1016/j.tree.2023.987654,2023,110000,55
+Applications of Machine Learning in Biophysics,1,https://doi.org/10.1016/j.ddtec.2021.10.034,2021,95000,30
+Role of Gut Microbiota in Anxiety Disorders,2,https://doi.org/10.1016/j.cell.2023.1234567,2023,110000,55
+Advancements in Quantum Error Correction Techniques,2,https://doi.org/10.1109/TIT.2022.9876543,2022,95000,30
+Effects of Noise Pollution on Marine Bird Communication,3,https://doi.org/10.1016/j.biocon.2023.105432,2023,110000,55
+Renewable Energy Solutions for Remote Communities,2,https://doi.org/10.1016/j.rser.2021.1234567,2021,95000,30
+Innovations in Agricultural Robotics and Automation,1,https://doi.org/10.1016/j.biosystemseng.2023.112345,2023,120000,65
+Role of Microbial Communities in Biogas Production,3,https://doi.org/10.1016/j.watres.2021.123456,2021,90000,40
+Advancements in Quantum Sensing Technologies,2,https://doi.org/10.1016/j.ssnmr.2023.109723,2023,110000,55
+Future Prospects of Solar Panel Technologies,2,https://doi.org/10.1016/j.ijggc.2022.105432,2022,95000,30
+Impacts of Marine Debris on Seabird Health,3,https://doi.org/10.1016/j.tree.2023.987654,2023,110000,55
+Applications of Machine Learning in Proteomics,1,https://doi.org/10.1016/j.ddtec.2021.10.034,2021,95000,30
+Role of Gut Microbiota in Inflammatory Bowel Diseases,2,https://doi.org/10.1016/j.cell.2023.1234567,2023,110000,55
+Advancements in Quantum Cryptography Techniques,2,https://doi.org/10.1109/TIT.2022.9876543,2022,95000,30
+Effects of Noise Pollution on Bird Behavior,3,https://doi.org/10.1016/j.biocon.2023.105432,2023,110000,55
+Renewable Energy Solutions for Rural Development,2,https://doi.org/10.1016/j.rser.2021.1234567,2021,95000,30
+Innovations in Agricultural Waste Management,1,https://doi.org/10.1016/j.biosystemseng.2023.112345,2023,120000,65
+Role of Microbial Communities in Soil Carbon Dynamics,3,https://doi.org/10.1016/j.soilbio.2021.123456,2021,90000,40
+Advancements in Quantum Computing Algorithms,2,https://doi.org/10.1016/j.quaqua.2023.109723,2023,110000,55
+Future Prospects of Solar Photovoltaic Cell Technologies,2,https://doi.org/10.1016/j.ijggc.2022.105432,2022,95000,30
+Impacts of Marine Debris on Marine Mammal Populations,3,https://doi.org/10.1016/j.tree.2023.987654,2023,110000,55
+Applications of Machine Learning in Transcriptomics,1,https://doi.org/10.1016/j.ddtec.2021.10.034,2021,95000,30
+Role of Gut Microbiota in Mood Disorders,2,https://doi.org/10.1016/j.cell.2023.1234567,2023,110000,55
+Advancements in Quantum Cryptography Protocols,2,https://doi.org/10.1016/j.ssnmr.2022.9876543,2022,95000,30
+Effects of Noise Pollution on Marine Ecosystems,3,https://doi.org/10.1016/j.biocon.2023.105432,2023,110000,55
+Renewable Energy Solutions for Smart Cities,2,https://doi.org/10.1016/j.rser.2021.1234567,2021,95000,30
+Innovations in Agricultural Remote Sensing Technologies,1,https://doi.org/10.1016/j.biosystemseng.2023.112345,2023,120000,65
+Role of Microbial Communities in Anaerobic Digestion,3,https://doi.org/10.1016/j.watres.2021.123456,2021,90000,40
+Advancements in Quantum Sensing Technologies,2,https://doi.org/10.1016/j.ssnmr.2023.109723,2023,110000,55
+Future Prospects of Solar Energy Conversion Systems,2,https://doi.org/10.1016/j.ijggc.2022.105432,2022,95000,30
+Impacts of Marine Debris on Seabird Behavior,3,https://doi.org/10.1016/j.tree.2023.987654,2023,110000,55
+Applications of Machine Learning in Biophysics,1,https://doi.org/10.1016/j.ddtec.2021.10.034,2021,95000,30
+Role of Gut Microbiota in Anxiety Disorders,2,https://doi.org/10.1016/j.cell.2023.1234567,2023,110000,55
+Advancements in Quantum Error Correction Techniques,2,https://doi.org/10.1109/TIT.2022.9876543,2022,95000,30
+Effects of Noise Pollution on Marine Bird Communication,3,https://doi.org/10.1016/j.biocon.2023.105432,2023,110000,55
+Renewable Energy Solutions for Remote Communities,2,https://doi.org/10.1016/j.rser.2021.1234567,2021,95000,30
+Innovations in Agricultural Robotics and Automation,1,https://doi.org/10.1016/j.biosystemseng.2023.112345,2023,120000,65
+Role of Microbial Communities in Biogas Production,3,https://doi.org/10.1016/j.watres.2021.123456,2021,90000,40
+Advancements in Quantum Sensing Technologies,2,https://doi.org/10.1016/j.ssnmr.2023.109723,2023,110000,55
+Future Prospects of Solar Panel Technologies,2,https://doi.org/10.1016/j.ijggc.2022.105432,2022,95000,30
+Impacts of Marine Debris on Seabird Health,3,https://doi.org/10.1016/j.tree.2023.987654,2023,110000,55
+Applications of Machine Learning in Proteomics,1,https://doi.org/10.1016/j.ddtec.2021.10.034,2021,95000,30
+Role of Gut Microbiota in Inflammatory Bowel Diseases,2,https://doi.org/10.1016/j.cell.2023.1234567,2023,110000,55
+Advancements in Quantum Cryptography Techniques,2,https://doi.org/10.1109/TIT.2022.9876543,2022,95000,30
+Effects of Noise Pollution on Bird Behavior,3,https://doi.org/10.1016/j.biocon.2023.105432,2023,110000,55
+Renewable Energy Solutions for Rural Development,2,https://doi.org/10.1016/j.rser.2021.1234567,2021,95000,30
+Innovations in Agricultural Waste Management,1,https://doi.org/10.1016/j.biosystemseng.2023.112345,2023,120000,65
+Role of Microbial Communities in Soil Carbon Dynamics,3,https://doi.org/10.1016/j.soilbio.2021.123456,2021,90000,40
+Advancements in Quantum Computing Algorithms,2,https://doi.org/10.1016/j.quaqua.2023.109723,2023,110000,55
+Future Prospects of Solar Photovoltaic Cell Technologies,2,https://doi.org/10.1016/j.ijggc.2022.105432,2022,95000,30
+Impacts of Marine Debris on Marine Mammal Populations,3,https://doi.org/10.1016/j.tree.2023.987654,2023,110000,55
+Applications of Machine Learning in Transcriptomics,1,https://doi.org/10.1016/j.ddtec.2021.10.034,2021,95000,30
+Role of Gut Microbiota in Mood Disorders,2,https://doi.org/10.1016/j.cell.2023.1234567,2023,110000,55
+Advancements in Quantum Cryptography Protocols,2,https://doi.org/10.1016/j.ssnmr.2022.9876543,2022,95000,30
+Effects of Noise Pollution on Marine Ecosystems,3,https://doi.org/10.1016/j.biocon.2023.105432,2023,110000,55
+Renewable Energy Solutions for Smart Cities,2,https://doi.org/10.1016/j.rser.2021.1234567,2021,95000,30
+Innovations in Agricultural Remote Sensing Technologies,1,https://doi.org/10.1016/j.biosystemseng.2023.112345,2023,120000,65
+Role of Microbial Communities in Anaerobic Digestion,3,https://doi.org/10.1016/j.watres.2021.123456,2021,90000,40
+Advancements in Quantum Sensing Technologies,2,https://doi.org/10.1016/j.ssnmr.2023.109723,2023,110000,55
+Future Prospects of Solar Energy Conversion Systems,2,https://doi.org/10.1016/j.ijggc.2022.105432,2022,95000,30
+Impacts of Marine Debris on Seabird Behavior,3,https://doi.org/10.1016/j.tree.2023.987654,2023,110000,55
+Applications of Machine Learning in Biophysics,1,https://doi.org/10.1016/j.ddtec.2021.10.034,2021,95000,30
+Role of Gut Microbiota in Anxiety Disorders,2,https://doi.org/10.1016/j.cell.2023.1234567,2023,110000,55
+Advancements in Quantum Error Correction Techniques,2,https://doi.org/10.1109/TIT.2022.9876543,2022,95000,30
+Effects of Noise Pollution on Marine Bird Communication,3,https://doi.org/10.1016/j.biocon.2023.105432,2023,110000,55
+Renewable Energy Solutions for Remote Communities,2,https://doi.org/10.1016/j.rser.2021.1234567,2021,95000,30
+Innovations in Agricultural Robotics and Automation,1,https://doi.org/10.1016/j.biosystemseng.2023.112345,2023,120000,65
+Role of Microbial Communities in Biogas Production,3,https://doi.org/10.1016/j.watres.2021.123456,2021,90000,40
+Advancements in Quantum Sensing Technologies,2,https://doi.org/10.1016/j.ssnmr.2023.109723,2023,110000,55
+Future Prospects of Solar Panel Technologies,2,https://doi.org/10.1016/j.ijggc.2022.105432,2022,95000,30
+Impacts of Marine Debris on Seabird Health,3,https://doi.org/10.1016/j.tree.2023.987654,2023,110000,55
+Applications of Machine Learning in Proteomics,1,https://doi.org/10.1016/j.ddtec.2021.10.034,2021,95000,30
+Role of Gut Microbiota in Inflammatory Bowel Diseases,2,https://doi.org/10.1016/j.cell.2023.1234567,2023,110000,55
+Advancements in Quantum Cryptography Techniques,2,https://doi.org/10.1109/TIT.2022.9876543,2022,95000,30
+Effects of Noise Pollution on Bird Behavior,3,https://doi.org/10.1016/j.biocon.2023.105432,2023,110000,55
+Renewable Energy Solutions for Rural Development,2,https://doi.org/10.1016/j.rser.2021.1234567,2021,95000,30
+Innovations in Agricultural Waste Management,1,https://doi.org/10.1016/j.biosystemseng.2023.112345,2023,120000,65
+Role of Microbial Communities in Soil Carbon Dynamics,3,https://doi.org/10.1016/j.soilbio.2021.123456,2021,90000,40
+Advancements in Quantum Computing Algorithms,2,https://doi.org/10.1016/j.quaqua.2023.109723,2023,110000,55
+Future Prospects of Solar Photovoltaic Cell Technologies,2,https://doi.org/10.1016/j.ijggc.2022.105432,2022,95000,30
+Impacts of Marine Debris on Marine Mammal Populations,3,https://doi.org/10.1016/j.tree.2023.987654,2023,110000,55
+Applications of Machine Learning in Transcriptomics,1,https://doi.org/10.1016/j.ddtec.2021.10.034,2021,95000,30
+Role of Gut Microbiota in Mood Disorders,2,https://doi.org/10.1016/j.cell.2023.1234567,2023,110000,55
+Advancements in Quantum Cryptography Protocols,2,https://doi.org/10.1016/j.ssnmr.2022.9876543,2022,95000,30
+Effects of Noise Pollution on Marine Ecosystems,3,https://doi.org/10.1016/j.biocon.2023.105432,2023,110000,55
+Renewable Energy Solutions for Smart Cities,2,https://doi.org/10.1016/j.rser.2021.1234567,2021,95000,30
+Innovations in Agricultural Remote Sensing Technologies,1,https://doi.org/10.1016/j.biosystemseng.2023.112345,2023,120000,65
+Role of Microbial Communities in Anaerobic Digestion,3,https://doi.org/10.1016/j.watres.2021.123456,2021,90000,40
+Advancements in Quantum Sensing Technologies,2,https://doi.org/10.1016/j.ssnmr.2023.109723,2023,110000,55
+Future Prospects of Solar Energy Conversion Systems,2,https://doi.org/10.1016/j.ijggc.2022.105432,2022,95000,30
+Impacts of Marine Debris on Seabird Behavior,3,https://doi.org/10.1016/j.tree.2023.987654,2023,110000,55
+Applications of Machine Learning in Biophysics,1,https://doi.org/10.1016/j.ddtec.2021.10.034,2021,95000,30
+Role of Gut Microbiota in Anxiety Disorders,2,https://doi.org/10.1016/j.cell.2023.1234567,2023,110000,55
+Advancements in Quantum Error Correction Techniques,2,https://doi.org/10.1109/TIT.2022.9876543,2022,95000,30
+Effects of Noise Pollution on Marine Bird Communication,3,https://doi.org/10.1016/j.biocon.2023.105432,2023,110000,55
+Renewable Energy Solutions for Remote Communities,2,https://doi.org/10.1016/j.rser.2021.1234567,2021,95000,30
+Innovations in Agricultural Robotics and Automation,1,https://doi.org/10.1016/j.biosystemseng.2023.112345,2023,120000,65
+Role of Microbial Communities in Biogas Production,3,https://doi.org/10.1016/j.watres.2021.123456,2021,90000,40
+Advancements in Quantum Sensing Technologies,2,https://doi.org/10.1016/j.ssnmr.2023.109723,2023,110000,55
+Future Prospects of Solar Panel Technologies,2,https://doi.org/10.1016/j.ijggc.2022.105432,2022,95000,30
+Impacts of Marine Debris on Seabird Health,3,https://doi.org/10.1016/j.tree.2023.987654,2023,110000,55
+Applications of Machine Learning in Proteomics,1,https://doi.org/10.1016/j.ddtec.2021.10.034,2021,95000,30
+Role of Gut Microbiota in Inflammatory Bowel Diseases,2,https://doi.org/10.1016/j.cell.2023.1234567,2023,110000,55
+Advancements in Quantum Cryptography Techniques,2,https://doi.org/10.1109/TIT.2022.9876543,2022,95000,30
+Effects of Noise Pollution on Bird Behavior,3,https://doi.org/10.1016/j.biocon.2023.105432,2023,110000,55
+Renewable Energy Solutions for Rural Development,2,https://doi.org/10.1016/j.rser.2021.1234567,2021,95000,30
+Innovations in Agricultural Waste Management,1,https://doi.org/10.1016/j.biosystemseng.2023.112345,2023,120000,65
+Role of Microbial Communities in Soil Carbon Dynamics,3,https://doi.org/10.1016/j.soilbio.2021.123456,2021,90000,40
+Advancements in Quantum Computing Algorithms,2,https://doi.org/10.1016/j.quaqua.2023.109723,2023,110000,55
+Future Prospects of Solar Photovoltaic Cell Technologies,2,https://doi.org/10.1016/j.ijggc.2022.105432,2022,95000,30
+Impacts of Marine Debris on Marine Mammal Populations,3,https://doi.org/10.1016/j.tree.2023.987654,2023,110000,55
+Applications of Machine Learning in Transcriptomics,1,https://doi.org/10.1016/j.ddtec.2021.10.034,2021,95000,30
+Role of Gut Microbiota in Mood Disorders,2,https://doi.org/10.1016/j.cell.2023.1234567,2023,110000,55
+Advancements in Quantum Cryptography Protocols,2,https://doi.org/10.1016/j.ssnmr.2022.9876543,2022,95000,30
+Effects of Noise Pollution on Marine Ecosystems,3,https://doi.org/10.1016/j.biocon.2023.105432,2023,110000,55
+Renewable Energy Solutions for Smart Cities,2,https://doi.org/10.1016/j.rser.2021.1234567,2021,95000,30
+Innovations in Agricultural Remote Sensing Technologies,1,https://doi.org/10.1016/j.biosystemseng.2023.112345,2023,120000,65
+Role of Microbial Communities in Anaerobic Digestion,3,https://doi.org/10.1016/j.watres.2021.123456,2021,90000,40
+Advancements in Quantum Sensing Technologies,2,https://doi.org/10.1016/j.ssnmr.2023.109723,2023,110000,55
+Future Prospects of Solar Energy Conversion Systems,2,https://doi.org/10.1016/j.ijggc.2022.105432,2022,95000,30
+Impacts of Marine Debris on Seabird Behavior,3,https://doi.org/10.1016/j.tree.2023.987654,2023,110000,55
+Applications of Machine Learning in Biophysics,1,https://doi.org/10.1016/j.ddtec.2021.10.034,2021,95000,30
+Role of Gut Microbiota in Anxiety Disorders,2,https://doi.org/10.1016/j.cell.2023.1234567,2023,110000,55
+Advancements in Quantum Error Correction Techniques,2,https://doi.org/10.1109/TIT.2022.9876543,2022,95000,30
+Effects of Noise Pollution on Marine Bird Communication,3,https://doi.org/10.1016/j.biocon.2023.105432,2023,110000,55
+Renewable Energy Solutions for Remote Communities,2,https://doi.org/10.1016/j.rser.2021.1234567,2021,95000,30
+Innovations in Agricultural Robotics and Automation,1,https://doi.org/10.1016/j.biosystemseng.2023.112345,2023,120000,65
+Role of Microbial Communities in Biogas Production,3,https://doi.org/10.1016/j.watres.2021.123456,2021,90000,40
+Advancements in Quantum Sensing Technologies,2,https://doi.org/10.1016/j.ssnmr.2023.109723,2023,110000,55
+Future Prospects of Solar Panel Technologies,2,https://doi.org/10.1016/j.ijggc.2022.105432,2022,95000,30
+Impacts of Marine Debris on Seabird Health,3,https://doi.org/10.1016/j.tree.2023.987654,2023,110000,55
+Applications of Machine Learning in Proteomics,1,https://doi.org/10.1016/j.ddtec.2021.10.034,2021,95000,30
+Role of Gut Microbiota in Inflammatory Bowel Diseases,2,https://doi.org/10.1016/j.cell.2023.1234567,2023,110000,55
+Advancements in Quantum Cryptography Techniques,2,https://doi.org/10.1109/TIT.2022.9876543,2022,95000,30
+Effects of Noise Pollution on Bird Behavior,3,https://doi.org/10.1016/j.biocon.2023.105432,2023,110000,55
+Renewable Energy Solutions for Rural Development,2,https://doi.org/10.1016/j.rser.2021.1234567,2021,95000,30
+Innovations in Agricultural Waste Management,1,https://doi.org/10.1016/j.biosystemseng.2023.112345,2023,120000,65
+Role of Microbial Communities in Soil Carbon Dynamics,3,https://doi.org/10.1016/j.soilbio.2021.123456,2021,90000,40
+Advancements in Quantum Computing Algorithms,2,https://doi.org/10.1016/j.quaqua.2023.109723,2023,110000,55
+Future Prospects of Solar Photovoltaic Cell Technologies,2,https://doi.org/10.1016/j.ijggc.2022.105432,2022,95000,30
+Impacts of Marine Debris on Marine Mammal Populations,3,https://doi.org/10.1016/j.tree.2023.987654,2023,110000,55
+Applications of Machine Learning in Transcriptomics,1,https://doi.org/10.1016/j.ddtec.2021.10.034,2021,95000,30
+Role of Gut Microbiota in Mood Disorders,2,https://doi.org/10.1016/j.cell.2023.1234567,2023,110000,55
+Advancements in Quantum Cryptography Protocols,2,https://doi.org/10.1016/j.ssnmr.2022.9876543,2022,95000,30
+Effects of Noise Pollution on Marine Ecosystems,3,https://doi.org/10.1016/j.biocon.2023.105432,2023,110000,55
+Renewable Energy Solutions for Smart Cities,2,https://doi.org/10.1016/j.rser.2021.1234567,2021,95000,30
+
