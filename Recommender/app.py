@@ -16,8 +16,8 @@ script_directory = os.path.dirname(os.path.abspath(__file__))
 repo_data_path = os.path.join(script_directory, 'research_dataset.csv')
 repo_data = pd.read_csv(repo_data_path)
 
-# Handle missing values
-repo_data.fillna(repo_data['language'].mode()[0], inplace=True)
+# # Handle missing values
+# repo_data.fillna(repo_data['language'].mode()[0], inplace=True)
 
 # Sidebar with user input
 st.sidebar.header('User Input Features')
